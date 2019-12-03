@@ -12,7 +12,7 @@
 
 [Munging complex excel docs](https://github.com/nacnudus/tidyxl)
 
-####Plotting a map of the UK
+#### Plotting a map of the UK
 
 ```R
 
